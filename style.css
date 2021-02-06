@@ -82,3 +82,9 @@ button.btn{
 .hidden{
     display: none;
 }
+
+@media (max-width: 729px){
+    .gameArea{
+        width: 100%;
+    }
+}
